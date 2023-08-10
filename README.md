@@ -9,7 +9,7 @@ Eu tenho grande interesse em Back-end e pretendo me desenvolver nessa área.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```java
-public class **Karen Lima** {
+public class KarenLima {
  private String name = "Karen Christina Lima de Santana";
  private String acknowledgements = "BackEnd";
 
