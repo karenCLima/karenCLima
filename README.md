@@ -18,6 +18,7 @@ public class KarenLima {
       karen.acknowledgements = "BackEnd";
 
       String[] languages = {"Java", "Python", "JavaScript"};
+ }
 
 }
 ````
