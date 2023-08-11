@@ -10,10 +10,14 @@ Eu tenho grande interesse em Back-end e pretendo me desenvolver nessa área.
 
 ```java
 public class KarenLima {
- private String name = "Karen Christina Lima de Santana";
- private String acknowledgements = "BackEnd";
+ public static void main(String args[]) {
 
- private String[] languages = {"Java", "Python", "JavaScript"};
+      Desenvolvedor karen = new Desenvolvedor();
+
+      karen.name = "Karen Christina Lima de Santana";
+      karen.acknowledgements = "BackEnd";
+
+      String[] languages = {"Java", "Python", "JavaScript"};
 
 }
 ````
