@@ -14,8 +14,8 @@ public class KarenLima {
 
       Desenvolvedor karen = new Desenvolvedor();
 
-      karen.name = "Karen Christina Lima de Santana";
-      karen.acknowledgements = "BackEnd";
+      karen.setName() = "Karen Christina Lima de Santana";
+      karen.setAcknowledgements() = "BackEnd";
 
       String[] languages = {"Java", "Python", "JavaScript"};
  }
