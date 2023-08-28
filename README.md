@@ -52,6 +52,7 @@ public class KarenLima {
 ### :notebook: APRENDENDO
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Springboot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
 
 ### :bar_chart: GitHub STATS :chart_with_upwards_trend:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karenCLima&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
