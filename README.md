@@ -6,7 +6,7 @@ Eu tenho grande interesse em Back-end e pretendo me desenvolver nessa área.
 
 ## 💜 MAIS SOBRE MIM
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" loop= "infinite" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```java
 public class KarenLima {
