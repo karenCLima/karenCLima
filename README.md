@@ -1,8 +1,21 @@
 # :computer: Karen Lima :smiley:
 
-Olá, meu nome Karen Lima. :wave:  
-Eu sou formada em Engenharia de Materiais e Nanotecnologia :microscope:, mas atualmente estou tentando migrar para a área de TI :computer:.   
-Eu tenho grande interesse em Back-end e pretendo me desenvolver nessa área. 
+#### 👋 Bem-vindo ao meu GitHub! 👩‍💻  
+🎓 Formada em Engenharia de Materiais e Nanotecnologia.   
+🚀 Transição de carreira para o emocionante mundo da programação.   
+🌟 Buscando novos desafios e colaborações emocionantes.  
+📊 Abordagem analítica e apaixonada por resolver problemas.  
+📈 Habilidades sólidas em análise de dados e resolução de problemas.  
+🌟 Acredito que a paixão e o comprometimento podem levar a resultados incríveis.   
+🌎 Comunicação eficaz em inglês.  
+#### O Que Você Encontrará Aqui  
+💼 Projetos que demonstram minha jornada de aprendizado e crescimento.  
+🤝 Contribuições para a comunidade open source.  
+🔗 Conexões e networking com profissionais talentosos.  
+#### Vamos Conectar!  
+👀 Dê uma olhada nos meus projetos e contribuições.  
+🤝 Estou sempre aberta a novas conexões e oportunidades.  
+📫 Entre em contato comigo para discutir colaborações e desafios emocionantes.  
 
 ## 💜 MAIS SOBRE MIM
 
@@ -53,6 +66,8 @@ public class KarenLima {
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Springboot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![AWS Amazon](https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4).
 
 ### :bar_chart: GitHub STATS :chart_with_upwards_trend:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karenCLima&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
