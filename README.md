@@ -60,7 +60,8 @@ public class KarenLima {
 ![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=Power%20BI&logoColor=F2C811)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
 ![Trello](https://img.shields.io/badge/-Trello-000?style=for-the-badge&logo=trello&logoColor=007ACC)
-![XAMPP](https://img.shields.io/badge/Xampp-000?style=for-the-badge&logo=xampp&logoColor=F37623)   
+![XAMPP](https://img.shields.io/badge/Xampp-000?style=for-the-badge&logo=xampp&logoColor=F37623)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
 **Ferramentas de desenvolvimento**  
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
