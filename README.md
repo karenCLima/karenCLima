@@ -1,7 +1,8 @@
 # :computer: Karen Lima :smiley:
 
 #### 👋 Bem-vindo ao meu GitHub! 👩‍💻  
-🎓 Formada em Engenharia de Materiais e Nanotecnologia.   
+🎓 Formada em Engenharia de Materiais e Nanotecnologia.
+🎓 Estudante de Engenharia de Software
 🚀 Transição de carreira para o emocionante mundo da programação.   
 🌟 Buscando novos desafios e colaborações emocionantes.  
 📊 Abordagem analítica e apaixonada por resolver problemas.  
